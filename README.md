@@ -32,5 +32,3 @@ noise distorting its hues. The second pass tackled the dithering shader
 I'd originally envisioned for a pixel-like look.
 
 The final scene brings both together in a cohesive environment.
-
-## Running on github pages or p5.js
